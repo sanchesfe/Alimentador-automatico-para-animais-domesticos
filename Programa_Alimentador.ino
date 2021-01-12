@@ -32,8 +32,8 @@ byte tempos_acionamento[maxpin];
 
 //Configurações de Wi-fi//
 
-const char* ssid     = "SSID (Nome da rede Wi-Fi)";
-const char* password = "Senha da rede Wi-Fi";
+const char* ssid     = "SSID (Nome da rede Wi-Fi)"; //Escreva os dados entre as aspas, sem removê-las.
+const char* password = "Senha da rede Wi-Fi"; //Escreva os dados entre as aspas, sem removê-las.
 WiFiServer server(80);
 
 //Configurações do relógio//
