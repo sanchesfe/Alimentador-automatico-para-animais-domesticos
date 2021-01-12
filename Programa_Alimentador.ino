@@ -16,7 +16,7 @@
 //Definição de parâmetros de controle//
 
 #define PinWPS 4
-#define rele 17
+#define rele 17 //Define o pino em que será conectado o relé
 #define qtparam 4 
 #define maxval  5 //Definição do número máximo de períodos de acionamento (pode ser alterado, se necessário, variando entre 1 e 9)
 #define maxpin  1 
